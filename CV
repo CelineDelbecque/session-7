@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Hello, world!</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+  </head>
+  <body>
+    <h1>CV Céline DELBECQUE</h1>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+  </body>
+</html>
+  
+  <div class="card" style="width: 20rem;">
+  <img class="card-img-top" src="photo-CV.jpg" alt="Card image cap">
+
+</div>
+
+</div>
+<div class="card text-white bg-danger mb-3" style="max-width: 20rem;">
+  <div class="card-body">
+    <h4 class="card-title">CELINE DELBECQUE</h4>
+    <p class="card-text">Journaliste, spécialité Data et Ecriture</p>
+  </div>
+</div>
+
+
+
+    <h4 class="card-title">COORDONNEES</h4>
+    <p class="card-text"></p>
+  </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">Tel : +33 6 24 89 07 20</li>
+    <li class="list-group-item">Mail : celine.delbecque@sciencespo.fr</li>
+    <li class="list-group-item">Adresse : 81, rue de Maubeuge 75010 PARIS</li>
+  </ul>
+  <div class="card-body">
+    <a href="#" class="https://twitter.com/">Twitter</a> <br>
+    <a href="#" class="https://www.facebook.com/celine.delbecque.7">Facebook</a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+        <h4 class="card-title">FORMATION</h4>
+        <p class="card-text"> 2016-2018 : Master de journalisme, spécialité data et écriture - Ecole de journalisme de Sciences Po Paris <br>
+        2013-2016 : Licence de Médias, Culture et Communication - Université catholique de Lille <br>
+        2013 : Baccalauréat mention B, spécialité Sciences Politique - Lycée St Paul, Lille
+        </p>
+
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+        <h4 class="card-title">EXPERIENCES</h4>
+        <p class="card-text">2017 : Reporter et rédactrice - Babel Press, New Delhi <br>
+          2015-2017 : Rédactrice web - Mailting Blog, Lille <br>
+          2015 : Rédactrice web - J3E, Paris <br>
+          2014-2016 : Rédactrice web - Circonflex, Lille <br>
+          2014 : Rédactrice web et enquêtrice - La Voix l'Etudiant, Lille <br>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div>
+  <div class="card-body text-danger">
+    <h4 class="card-title">LANGUES</h4>
+    <p class="card-text">Français : courant <br>
+    Anglais : niveau C1 sur l'échelle du CECR <br>
+  Espagnol : niveau B2 sur l'échelle du CECR</p>
+  </div>
+</div>
+
+<div class="card border-danger mb-3" style="max-width: 20rem;">
+  <div class="card-body text-danger">
+    <h4 class="card-title">LOGICIELS</h4>
+    <p class="card-text">Adobe Audition CC 2015<br>
+    Adobe Première CC 2015<br>
+    Photoshop <br>
+    InDesign <br>
+    Final Cut Pro X
+</p>
+  </div>
+</div>
